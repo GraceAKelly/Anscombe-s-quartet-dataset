@@ -1,6 +1,6 @@
 # Anscombe-s-quartet-dataset
 ========================================================================
-Background
+## Background
 ------------------------------------------------------------------------
 The jupyter notebook is analysis and investigation of Anscombe's Quartet. 
 Anscombes's Quartet was constructed in 1973 by the statistician Francis Anscombe to demonstrate both the importance of graphing data before analyzing it and the effect of outliers on statistical properties. 
