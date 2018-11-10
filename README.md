@@ -7,4 +7,8 @@ Anscombes's Quartet was constructed in 1973 by the statistician Francis Anscombe
 
 ![Frank Anscombe](Frank Anscombe.jpeg)
 
-It comprises of four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed. Each dataset consists of eleven (x,y) points.(https://en.wikipedia.org/wiki/Anscombe's_quartet)
+The jupter notebook contains background information to the datasets. 
+
+The notebook runs sequentially starting with descriptive statics on the datasets and following on to various linear regression visualisations, comparisions and pairplot to highlight the correlation withing the datasets but more importantly the differences within the data sets not evident from the descriptive statistics.
+
+
